@@ -1,0 +1,1000 @@
+ 1011  ls
+ 1012  ls -l
+ 1013  sudo chmod u+x __init__.py
+ 1014  ls -l
+ 1015  sudo chmod o+x __init__.py
+ 1016  ls -l
+ 1017  sudo chmod g-w __init__.py
+ 1018  ls -l
+ 1019  sudo chmod g+x __init__.py
+ 1020  ls -l
+ 1021  sudo chmod ugo+rwx __init__.py
+ 1022  ls -l
+ 1023  sudo chmod u-x __init__.py
+ 1024  ls -l
+ 1025  sudo chmod g-wx __init__.py
+ 1026  ls -l
+ 1027  sudo chmod o-wx __init__.py
+ 1028  ls -l
+ 1029  cd catkin_ws/
+ 1030  ./intera.sh
+ 1031  sudo avahi-autoipd eth0
+ 1032  cd Grasp-Detector-master/
+ 1033  python NLP_class.py 
+ 1034  chmod +x NLP_class.py 
+ 1035  pycharm
+ 1036  python
+ 1037  pip install --upgrade numpy
+ 1038  deepspeech -h
+ 1039  python
+ 1040  swig -version
+ 1041  ls
+ 1042  cd ..
+ 1043  ls
+ 1044  cd Grasp-Detector-master/
+ 1045  ls
+ 1046  python main_tensorandcaffe.py 
+ 1047  pip install --upgrade deepspeech-gpu
+ 1048  sudo pip install --upgrade deepspeech-gpu
+ 1049  sudo pip install -upgrade deepspeech
+ 1050  sudo pip install --upgrade deepspeech
+ 1051  exit
+ 1052  cd catkin_ws/
+ 1053  ./intera.sh
+ 1054  fg
+ 1055  cd NLP/
+ 1056  cd ExecutionFile/
+ 1057  ./client
+ 1058  python client.py 
+ 1059  pycharm 
+ 1060  pycharm
+ 1061  pycharm 
+ 1062  exit
+ 1063  cd catkin_ws/
+ 1064  ./intera.sh
+ 1065  pycharm 
+ 1066  cd catkin_ws/
+ 1067  ./intera.sh
+ 1068  pycharm
+ 1069  exit
+ 1070  sudo avahi-autoipd eth0
+ 1071  cd catkin_ws/
+ 1072  ./intera.sh
+ 1073  la
+ 1074  cd
+ 1075  ls
+ 1076  cd Grasp-Detector-master/
+ 1077  ls
+ 1078  pwd
+ 1079  pycharm
+ 1080  cd catkin_ws/
+ 1081  ./intera.sh
+ 1082  sudo avahi-autoipd eth0
+ 1083  pycharm 
+ 1084  cd catkin_ws/
+ 1085  ./intera.sh
+ 1086  ls /dev/ | grep video
+ 1087  streamer -f jpeg -o ./webcam.jpeg -c /dev/video0
+ 1088  ls
+ 1089  pycharm 
+ 1090  cd catkin_ws/
+ 1091  ./intera.sh
+ 1092  sudo avahi-autoipd eth0
+ 1093  streamer -f jpeg -o ./webcam.jpeg -c /dev/video2
+ 1094  streamer -f jpeg -o ./webcam.jpeg -c /dev/video0
+ 1095  streamer -f jpeg -o ./webcam.jpeg -c /dev/video1
+ 1096  streamer -f jpeg -o ./webcam.jpeg -c /dev/video0
+ 1097  streamer -f jpeg -o ./webcam.jpeg -c /dev/video1
+ 1098  streamer -f jpeg -o ./webcam.jpeg -c /dev/video2
+ 1099  cd catkin_ws/
+ 1100  ./intera.sh
+ 1101  pycharm 
+ 1102  peg -c /dev/video2
+ 1103  cd catkin_ws/
+ 1104  ./intera.sh
+ 1105  pycharm 
+ 1106  cd catkin_ws/
+ 1107  ./intera.sh
+ 1108  pycharm
+ 1109  cd catkin_ws/
+ 1110  ./intera.sh
+ 1111  sudo avahi-autoipd eth0
+ 1112  pwd
+ 1113  streamer -f jpeg -o ./webcam.jpeg -c /dev/video1
+ 1114  streamer -f jpeg -o ./webcam.jpeg -c /dev/video0
+ 1115  streamer -f jpeg -o ./webcam.jpeg -c /dev/video2
+ 1116  streamer -f jpeg -o ./webcam.jpeg -c /dev/video1
+ 1117  pycharm
+ 1118  cd catkin_ws/
+ 1119  ./intera.sh
+ 1120  sudo avahi-autoipd eth0
+ 1121  python -m pip install -U pylint
+ 1122  sudo python -m pip install -U pylint
+ 1123  code
+ 1124  ls
+ 1125  cd Downloads/
+ 1126  ls
+ 1127  sudo dpkg -i code_1.21.0-1520420608_amd64.deb
+ 1128  cd 
+ 1129  cd catkin_ws/
+ 1130  ./intera.sh
+ 1131  vscode
+ 1132  visual studio code
+ 1133  code
+ 1134  ls
+ 1135  cd Grasp-Detector-master/
+ 1136  git init
+ 1137  git status
+ 1138  git remote add origin https://github.com/s7s7s7/Senior-Design-Codes-Here.git
+ 1139  git remote
+ 1140  git push
+ 1141  ls
+ 1142  git add .
+ 1143  git commit -m "big dump of files"
+ 1144  loadkeys us colemak
+ 1145  setxkbmap us colemak
+ 1146  git config --global user.email "sunqi1996321@gmail.com"
+ 1147  git config --global user.name "Sun Qi"
+ 1148  git commit -m "big file dump"
+ 1149  git push
+ 1150  setxkbmap us
+ 1151  git push
+ 1152  git pull
+ 1153  git branch --set-upstream-to=origin/master master
+ 1154  git pull
+ 1155  vim README.md 
+ 1156  git status
+ 1157  git add README.md 
+ 1158  git commit
+ 1159  git push
+ 1160  roscore
+ 1161  pycharm
+ 1162  roscore
+ 1163  rosrun rviz rviz
+ 1164  cd catkin_ws
+ 1165  ./intera.sh
+ 1166  sudo avahi-autoipd eth0
+ 1167  pycharm
+ 1168  cd catkin_ws
+ 1169  ./intera.sh
+ 1170  sudo avahi-autoipd eth0
+ 1171  git push
+ 1172  git commit -m 'added main file, colorRec, and updated GestRec'
+ 1173  git add all
+ 1174  git add
+ 1175  git add .
+ 1176  git commit -m 'added main file, colorRec, and updated GestRec'
+ 1177  git push
+ 1178  pycharm
+ 1179  cd catkin_ws/
+ 1180  ./intera.sh
+ 1181  sudo avahi-autoipd eth0
+ 1182  ifconfig
+ 1183  sudo avahi-autoipd eth0
+ 1184  cd catkin_ws/
+ 1185  ./intera.sh
+ 1186  sudo avahi-autoipd etho
+ 1187  sudo avahi-autoipd eth0
+ 1188  pycharm
+ 1189  cd catkin_ws/
+ 1190  ./intera.sh
+ 1191  sudo avahi-autoipd eth0
+ 1192  pycharm
+ 1193  cd catkin_ws/
+ 1194  ./intera.sh
+ 1195  sudo avahi-autoipd eth0
+ 1196  pycharm
+ 1197  cd catkin_ws/
+ 1198  ./intera.sh
+ 1199  cd catkin_ws/
+ 1200  ./intera.sh
+ 1201  pycharm
+ 1202  cd catkin_ws/
+ 1203  ./intera.sh
+ 1204  sudo avahi-autoipd eth0
+ 1205  pycharm
+ 1206  cd catkin_ws
+ 1207  ./intera.sh
+ 1208  pycharm
+ 1209  sudo avahi-autoipd eth0
+ 1210  cd catkin_ws/
+ 1211  ./intera.sh
+ 1212  sudo avahi-autoipd eth0
+ 1213  cd catkin_ws/
+ 1214  ./intera.sh
+ 1215  exit
+ 1216  roscore
+ 1217  exit
+ 1218  ls
+ 1219  subl
+ 1220  exit
+ 1221  pwd
+ 1222  cd catkin_ws/
+ 1223  cd ../
+ 1224  ls
+ 1225  cd NLP/
+ 1226  ls
+ 1227  source my_project/bin/activate
+ 1228  cd DeepSpeech/
+ 1229  python DeepSpeech -h
+ 1230  python DeepSpeech.py -h
+ 1231  pycharm
+ 1232  exit
+ 1233  cd catkin_ws
+ 1234  ./intera.sh
+ 1235  ls
+ 1236  cd catkin_ws/
+ 1237  cd
+ 1238  cd ..
+ 1239  ls
+ 1240  cd
+ 1241  ls
+ 1242  cd catkin_ws/
+ 1243  ls
+ 1244  cd my_scripts/
+ 1245  ls
+ 1246  cd
+ 1247  locate futureproject
+ 1248  find futureproject
+ 1249  find FutureProject
+ 1250  find Grasp-detector-master
+ 1251  find getRecB
+ 1252  find getRecB.py
+ 1253  cd
+ 1254  ls
+ 1255  cd Grasp\
+ 1256  cd Grasp-Detector-master/
+ 1257  ls
+ 1258  subl FutureProject.py 
+ 1259  ls
+ 1260  cd catkin_ws/
+ 1261  ls
+ 1262  cd src/
+ 1263  ls
+ 1264  cd 
+ 1265  sudo apt-get libuvc_camera
+ 1266  sudo apt-get install libuvc_camera
+ 1267  rosdep install libuvc_camera
+ 1268  sudo apt-get update 
+ 1269  sudo apt-get install libuvc_camera
+ 1270  git clone https://github.com/ros-drivers/libuvc_ros.git
+ 1271  ls
+ 1272  cd libuvc_ros/
+ 1273  ls
+ 1274  cd libuvc_camera/
+ 1275  ls
+ 1276  cd ..
+ 1277  cd
+ 1278  cd ..
+ 1279  ls
+ 1280  cd team18/
+ 1281  ls
+ 1282  sudo apt-get install find_object_2d
+ 1283  cd catkin_ws/
+ 1284  ls
+ 1285  cd devel/
+ 1286  ls
+ 1287  subl setup.bash 
+ 1288  pwd
+ 1289  git clone https://github.com/introlab/find-object.git
+ 1290  cd //
+ 1291  exit
+ 1292  cd libuvc_ros/
+ 1293  ls
+ 1294  cd libuvc_camera/
+ 1295  ls
+ 1296  jobs
+ 1297  cd catkin_ws/src/find_object_2d/
+ 1298  cd b
+ 1299  cd bin/
+ 1300  ./find_object
+ 1301  exit
+ 1302  exit
+ 1303  cd catkin_ws/
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  cd catkin_ws/
+ 1308  catkin_make
+ 1309  cd
+ 1310  ls
+ 1311  cd catkin_ws/
+ 1312  ls
+ 1313  cd src/
+ 1314  ls
+ 1315  cd find_object_2d/
+ 1316  ls
+ 1317  cd build/
+ 1318  ls
+ 1319  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1320  make
+ 1321  cd ../bin/
+ 1322  ./find_object
+ 1323  exit
+ 1324  rostopic 
+ 1325  rostopic lsit
+ 1326  rostopic list
+ 1327  rosservice list
+ 1328  exit
+ 1329  lsusb -v
+ 1330  cd libuvc_ros/
+ 1331  ls
+ 1332  cd libuvc_camera/
+ 1333  ls
+ 1334  cd ..
+ 1335  cd
+ 1336  git clone https://github.com/ktossell/libuvc.git
+ 1337  cd libuvc
+ 1338  ls
+ 1339  mkdir build
+ 1340  cd build/
+ 1341  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1342  make && make install
+ 1343  sudo make && make install
+ 1344  lsusb -v
+ 1345  exit
+ 1346  ls
+ 1347  exit
+ 1348  cd
+ 1349  cd Grasp-Detector-master/
+ 1350  python2 trainObject.py 
+ 1351  jobs
+ 1352  kill %1
+ 1353  jos
+ 1354  jobs
+ 1355  jbos
+ 1356  jobs
+ 1357  avahi-autoipd eth3
+ 1358  python2 trainObject.py 
+ 1359  jobs
+ 1360  kill %1
+ 1361  jobs
+ 1362  python2 trainObject.py 
+ 1363  avahi-autoipd eth3
+ 1364  avahi-autoipd eth30
+ 1365  avahi-autoipd eth0
+ 1366  sudo avahi-autoipd eth0
+ 1367  exit
+ 1368  subl
+ 1369  cd 2018S_Ray/
+ 1370  ls
+ 1371  cd ..
+ 1372  cd 2018S_Ray/
+ 1373  ls
+ 1374  cd ..
+ 1375  cd Grasp-Detector-master/
+ 1376  ls
+ 1377  cd ..
+ 1378  cd 2018S_Ray/
+ 1379  ls
+ 1380  python3 trainObject.py 
+ 1381  python trainObject.py 
+ 1382  python2.7 trainObject.py 
+ 1383  ls
+ 1384  trainObject.py
+ 1385  python2 trainObject.py 
+ 1386  cd ..
+ 1387  cd Grasp-Detector-master/
+ 1388  python2 trainObject.py 
+ 1389  rosrun trainObject.py
+ 1390  python trainObject.py
+ 1391  avahi-autoipd eth3
+ 1392  cd catkin_ws/
+ 1393  cd
+ 1394  cd catkin_ws/
+ 1395  ls
+ 1396  ./intera.sh
+ 1397  exit
+ 1398  roscore 
+ 1399  exit
+ 1400  ls
+ 1401  cd catkin_ws/
+ 1402  ls'
+ 1403  ls
+ 1404  ls
+ 1405  cd my_scripts/
+ 1406  ls
+ 1407  cd catkin_ws/\
+ 1408  cd cat
+ 1409  cd catkin_ws/
+ 1410  ls
+ 1411  cd my_scripts/
+ 1412  ls
+ 1413  cd Grasping/
+ 1414  ls
+ 1415  cd
+ 1416  cd catkin_ws/
+ 1417  cd my_scripts/
+ 1418  ls
+ 1419  cd gra
+ 1420  cd Grasping/
+ 1421  ls
+ 1422  find future
+ 1423  cd ..
+ 1424  ls
+ 1425  cd
+ 1426  ls
+ 1427  cd Grasp-Detector-master/
+ 1428  ls
+ 1429  pycharm FutureProject.py 
+ 1430  exit
+ 1431  cd 2018S_Frank_Ray_Zihan/
+ 1432  cd ..
+ 1433  cd Grasp-Detector-master/
+ 1434  ls
+ 1435  cd //
+ 1436  exit
+ 1437  cd 2018S_Ray/
+ 1438  ls
+ 1439  cd ..
+ 1440  mv 2018S_Ray/ 2018S_Frank_Ray_Zihan
+ 1441  ls
+ 1442  cd 2018S_Frank_Ray_Zihan/
+ 1443  ls
+ 1444  exit
+ 1445  rosservice list
+ 1446  rostopic list
+ 1447  cd ./catkin_ws
+ 1448  ls
+ 1449  cd ../my_scripts/
+ 1450  ls
+ 1451  rostopic list
+ 1452  rosservice list
+ 1453  cd ./catkin_ws/
+ 1454  ls
+ 1455  cd ../src
+ 1456  cd 
+ 1457  cd ./catkin_ws/
+ 1458  cd ../src
+ 1459  cd src
+ 1460  cd learning_tf
+ 1461  lsd
+ 1462  ls
+ 1463  cd
+ 1464  cd catkin_ws/src/find_object_2d/
+ 1465  find_object
+ 1466  ./find_object
+ 1467  ls
+ 1468  cd ..
+ 1469  ls
+ 1470  ./find_object_2d/
+ 1471  cd ./find_object_2d/
+ 1472  ls
+ 1473  ls
+ 1474  cd object_detector_app/
+ 1475  ls
+ 1476  cd ..
+ 1477  find find_object
+ 1478  ls
+ 1479  cd libuvc
+ 1480  ls
+ 1481  cd ..
+ 1482  ls
+ 1483  cd catkin_ws/src/
+ 1484  ls
+ 1485  cd find_object_2d/
+ 1486  ls
+ 1487  cd bin/
+ 1488  ls
+ 1489  ./find_object
+ 1490  cd
+ 1491  rosrun libuvc_camera camera_node
+ 1492  cd catkin_ws/src/find_object_2d/bin
+ 1493  ./find_object
+ 1494  cd
+ 1495  cd 2018S_Frank_Ray_Zihan/
+ 1496  python trainObject.py 
+ 1497  python2 trainObject.py 
+ 1498  kill %1
+ 1499  clear
+ 1500  python trainObject.py 
+ 1501  python2 FutureProject.py 
+ 1502  cd ..
+ 1503  cd Grasp-Detector-master/
+ 1504  python2 FutureProject.py 
+ 1505  cd ..
+ 1506  cd 2018S_Frank_Ray_Zihan/
+ 1507  ls
+ 1508  python trainObject.py 
+ 1509  python2 FutureProject.py 
+ 1510  python2 trainObject.py
+ 1511  exit
+ 1512  find intera.sh
+ 1513  cd my_scripts/
+ 1514  ls
+ 1515  cd Grasping/
+ 1516  ls
+ 1517  cd
+ 1518  cd 2018S_Frank_Ray_Zihan/
+ 1519  ./intera.sh
+ 1520  cd ..
+ 1521  cd catkin_ws/
+ 1522  ls
+ 1523  ./intera.sh
+ 1524  exot
+ 1525  exit
+ 1526  ls
+ 1527  cd catkin_ws/
+ 1528  ls
+ 1529  rosrun find_object_2d 
+ 1530  rosrun find_object_2d find_object_2d image:=image_raw
+ 1531  cd 
+ 1532  ls
+ 1533  cd libuvc_ros/
+ 1534  ls
+ 1535  cd libuvc_camera/
+ 1536  ls
+ 1537  cd src/
+ 1538  ls
+ 1539  exit
+ 1540  avahi-autoipd eth0
+ 1541  sudo avahi-autoipd eth0
+ 1542  rosservice list
+ 1543  rostopic lsit
+ 1544  rostopic list
+ 1545  jobs
+ 1546  rosawesome 
+ 1547  pycharm 
+ 1548  roscore
+ 1549  exit
+ 1550  rosrun libuvc_camera camera_node
+ 1551  cd /dev/bus/usb/001
+ 1552  sudo chown team18 003
+ 1553  rosrun libuvc_camera camera_node
+ 1554  rosrun find_object_2d find_object_2d image:=image_raw
+ 1555  cd catkin_ws/
+ 1556  ./intera.sh
+ 1557  cd
+ 1558  cd home
+ 1559  ls
+ 1560  cd 2018S_Frank_Ray_Zihan/
+ 1561  python2 trainObject.py
+ 1562  python2 FutureObject.py
+ 1563  python2 FutureProject.py
+ 1564  cd
+ 1565  cd 2018S_Frank_Ray_Zihan/
+ 1566  python2 trainObject.py 
+ 1567  kill %1
+ 1568  jobs
+ 1569  exit
+ 1570  cd
+ 1571  cd 2018S_Frank_Ray_Zihan/
+ 1572  python2 FutureProject.py
+ 1573  sudo avahi-autoipd eth0
+ 1574  cd
+ 1575  cd catkin_ws/
+ 1576  ./intera.sh
+ 1577  exit
+ 1578  cd 2018S_Frank_Ray_Zihan/
+ 1579  python2 FutureProject.py
+ 1580  cd
+ 1581  cd catkin_ws/
+ 1582  ./intera.sh
+ 1583  exit
+ 1584  cd ..
+ 1585  cd 2018S_Frank_Ray_Zihan/
+ 1586  python trainObject.py 
+ 1587  python2 FutureProject.py 
+ 1588  python trainObject.py 
+ 1589  exit
+ 1590  cd ..
+ 1591  cd 2018S_Frank_Ray_Zihan/
+ 1592  ls
+ 1593  python2 trainObject.py 
+ 1594  exit
+ 1595  rosrun intera_interface enable_robot.py -e
+ 1596  rosrun intera_interface enable_robot.py -r
+ 1597  rosrun intera_interface enable_robot.py -s
+ 1598  rosrun intera_interface enable_robot.py -r
+ 1599  rosrun intera_interface enable_robot.py -s
+ 1600  rosrun intera_interface enable_robot.py -r
+ 1601  rosrun intera_interface enable_robot.py -e
+ 1602  rosrun intera_interface enable_robot.py -s
+ 1603  rosrun intera_interface enable_robot.py -h
+ 1604  rosrun intera_interface enable_robot.py -r
+ 1605  exit
+ 1606  ls
+ 1607  catkin_ws
+ 1608  cd catkin_ws/
+ 1609  ls
+ 1610  cd src/
+ 1611  ls
+ 1612  cd learning_tf/
+ 1613  ls
+ 1614  cd src
+ 1615  ls
+ 1616  cd ..
+ 1617  ls
+ 1618  subl nodes
+ 1619  pycharm nodes
+ 1620  cd
+ 1621  sudo avahi-autoipd eth0/
+ 1622  ethtool eth1
+ 1623  ethtool eth0
+ 1624  sudo avahi-autoipd eth0/
+ 1625  sudo avahi-autoipd eth0
+ 1626  rospack libuvc_camera
+ 1627  rospack find libuvc_camera
+ 1628  sudo apt-get install ros-indigo-libuvc-camera
+ 1629  roscore
+ 1630  ./intera.sh
+ 1631  cd catkin_ws/
+ 1632  ls
+ 1633  ./intera.sh
+ 1634  rosrun intera_interface enable_robot.py
+ 1635  rosrun intera_interface enable_robot.py -r
+ 1636  rosrun intera_interface enable_robot.py -s
+ 1637  rosrun intera_interface enable_robot.py -d
+ 1638  rosrun intera_interface enable_robot.py -s
+ 1639  rosrun intera_interface enable_robot.py -e
+ 1640  rosrun intera_interface enable_robot.py -s
+ 1641  rosrun intera_interface enable_robot.py -e
+ 1642  rosrun intera_interface enable_robot.py -S
+ 1643  rosrun intera_interface enable_robot.py -s
+ 1644  rosrun intera_interface enable_robot.py -e
+ 1645  rosrun intera_interface enable_robot.py -s
+ 1646  cd catkin_ws
+ 1647  ./intera.sh
+ 1648  rose topiclist echo
+ 1649  roscore
+ 1650  rosrun rviz rviz
+ 1651  pycharm
+ 1652  cd catkin_ws
+ 1653  ./intera.sh
+ 1654  sudo avahi-autoipd eth0
+ 1655  tree /dev/disk/by-label/
+ 1656  sudo apt-add-repository ppa:thomas.tsai/ubuntu-tuxboot
+ 1657  sudo apt-get update
+ 1658  sudo apt-get install tuxboot
+ 1659  sudo tuxboot
+ 1660  tree /dev/disk/by-label/
+ 1661  sudo tuxboot
+ 1662  sudo avahi-autoipd eth0
+ 1663  clear
+ 1664  sudo apt-get update
+ 1665  sudo apt-get upgrade
+ 1666  cd catkin_ws/
+ 1667  ./intera.sh
+ 1668  clear
+ 1669  cd
+ 1670  clear
+ 1671  cd catkin_ws
+ 1672  ./intera.sh
+ 1673  cd catkin_ws
+ 1674  ./intera.sh
+ 1675  pycharm
+ 1676  grep Broken /var/log/dist-upgrade/apt.log
+ 1677  sudo
+ 1678  sudo do-release-upgrade 
+ 1679  grep Broken /var/log/dist-upgrade/apt.log
+ 1680  sudo apt-get remove | grep Broken /var/log/dist-upgrade/apt.log
+ 1681  clear
+ 1682  grep Broken /var/log/dist-upgrade/apt.log
+ 1683  sudo apt-get autoclean
+ 1684  sudo apt-get clean
+ 1685  sudo apt-get autoremove
+ 1686  grep Broken /var/log/dist-upgrade/apt.log
+ 1687  sudo apt-get remove libsdformat-dev:amd64
+ 1688  grep Broken /var/log/dist-upgrade/apt.log
+ 1689  sudo apt-get remove libsdformat-dev:amd64
+ 1690  grep Broken /var/log/dist-upgrade/apt.log
+ 1691  sudo do-release-upgrade 
+ 1692  sudo vim /var/log/dist-upgrade/main.log
+ 1693  sudo apt-get remove ros-indigo-geometry-tutorials:amd64
+ 1694  sudo apt-get autoclean
+ 1695  apt-get autoremove
+ 1696  sudo apt-get autoremove
+ 1697  clear
+ 1698  grep Broken /var/log/dist-upgrade/apt.log
+ 1699  sudo apt-get update
+ 1700  grep Broken /var/log/dist-upgrade/apt.log
+ 1701  sudo apt-get autoremove
+ 1702  sudo apt-get remove libecal-1.2-16:amd64
+ 1703  sudo apt-get autoremove
+ 1704  sudo apt-get install -f
+ 1705  sudo do-release-upgrade 
+ 1706  sudo apt-get remove ros-indigo-tf2-py:amd64
+ 1707  sudo apt-get autoremove
+ 1708  sudo do-release-upgrade 
+ 1709  roscore
+ 1710  ros
+ 1711  ros -v
+ 1712  which ros
+ 1713  which roscore
+ 1714  ros-indigo
+ 1715  ros-indigo -v
+ 1716  ubuntu
+ 1717  version
+ 1718  lsb-release -a
+ 1719  lsb-release
+ 1720  lsb_release
+ 1721  lsb_release -a
+ 1722  lsb release -a
+ 1723  Isb release -a
+ 1724  cd catkin_ws
+ 1725  ls
+ 1726  cd build
+ 1727  ls
+ 1728  catkin_make clean
+ 1729  cd ..
+ 1730  catkin_make clean
+ 1731  rm -r build
+ 1732  catkin_make
+ 1733  uname -1
+ 1734  uname --help
+ 1735  uname --i
+ 1736  uname -i
+ 1737  cd
+ 1738  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+ 1739  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
+ 1740  sudo apt-get install ros-kinetic-desktop-full
+ 1741  sudo apt-get remove ros-*
+ 1742  sudo apt-get install ros-kinetic-desktop-full
+ 1743  sudo apt-get remove ros-*
+ 1744  sudo apt-get install ros-kinetic-desktop-full
+ 1745  sudo apt-get purge ros-*
+ 1746  sudo apt-get autoremove
+ 1747  sudo apt-get install ros-kinetic-desktop-full
+ 1748  rosversion -k
+ 1749  rosversion 
+ 1750  rosversion -d
+ 1751  rosversion ros
+ 1752  rosversion 
+ 1753  rosversion -d
+ 1754  sudo apt-get install ros-kinetic-desktop-full
+ 1755  rosversion -d
+ 1756  roscore
+ 1757  cd /opt/ros/kinetic/
+ 1758  ls
+ 1759  source setup.bash 
+ 1760  ls
+ 1761  ls -r
+ 1762  ls -a
+ 1763  ls --help
+ 1764  subl .bashrc
+ 1765  cd /opt/ros/kinetic/
+ 1766  ls
+ 1767  rosversion -d
+ 1768  roscore
+ 1769  sudo apt-get install ros-kinetic-desktop-full
+ 1770  sudo dpkg --configure -a
+ 1771  sudo apt-get install -f
+ 1772  sudo apt-get clean
+ 1773  sudo apt-get
+ 1774  sudo apt-get update
+ 1775  sudo apt-get install -f
+ 1776  subl .bashrc
+ 1777  cd /opt/ros/kinetic/
+ 1778  ls
+ 1779  subl setup.bash 
+ 1780  sudo dpkg --configure --help
+ 1781  sudo apt-get install ros-kinetic-desktop-full
+ 1782  subl /etc/apt/sources.list
+ 1783  exit
+ 1784  ls
+ 1785  cd catkin_ws/
+ 1786  s
+ 1787  ls
+ 1788  subl intera.sh~
+ 1789  ls
+ 1790  subl intera.sh
+ 1791  env | grep ROS
+ 1792  exit
+ 1793  rosversion 
+ 1794  rosversion -d
+ 1795  ls
+ 1796  cd catkin_ws/
+ 1797  ls
+ 1798  ./intera.sh
+ 1799  ./intera.sh sim
+ 1800  ./intera.sh
+ 1801  ./intera.sh sim
+ 1802  roscore 
+ 1803  sudo apt-get install ros-kinetic-desktop-full 
+ 1804  roscore
+ 1805  dpkg --configure -a
+ 1806  sudo dpkg --configure -a
+ 1807  sudo apt-get purge ros-kinetic-*
+ 1808  sudo apt-get autoremove
+ 1809  exit
+ 1810  cd
+ 1811  cd Grasp-Detector-master/
+ 1812  ls
+ 1813  python2 FutureProject.py 
+ 1814  python3 FutureProject.py 
+ 1815  python FutureProject.py 
+ 1816  pycharm FutureProject.py 
+ 1817  python3 FutureProject.py 
+ 1818  cd ..
+ 1819  cd 2018S_Frank_Ray_Zihan/
+ 1820  python3 trainObject.py 
+ 1821  python2 trainObject.py 
+ 1822  python2.7 trainObject.py 
+ 1823  ls
+ 1824  subl __init__.py 
+ 1825  exut]
+ 1826  exit
+ 1827  cd Grasp-Detector-master/
+ 1828  pycharm FutureProject.py 
+ 1829  env | grep ROS
+ 1830  rostopic list
+ 1831  rosrun rviz rviz 
+ 1832  exit
+ 1833  sudo avahi-autoipd eth0
+ 1834  cd
+ 1835  cd 2018S_Frank_Ray_Zihan/
+ 1836  ls
+ 1837  python2 trainObject.py 
+ 1838  cd
+ 1839  cd Grasp-Detector-master/
+ 1840  ls
+ 1841  python2 ProjectFinalFinal.py 
+ 1842  python2 FutureProject.py 
+ 1843  cd ..
+ 1844  cd 2018S_Frank_Ray_Zihan/
+ 1845  ls
+ 1846  python2 trainObject.py 
+ 1847  clear
+ 1848  python2 trainObject.py 
+ 1849  rostopic 
+ 1850  rostopic echo /robot/end_effector_names /
+ 1851  exit
+ 1852  ls
+ 1853  mkdir -p ~/ros_ws/src
+ 1854  ls
+ 1855  cd ros_ws/
+ 1856  ls
+ 1857  cd
+ 1858  source /opt/ros/kinetic/setup.bash 
+ 1859  cd ros_ws/
+ 1860  catkin_make
+ 1861  sudo apt-get update
+ 1862  sudo apt-get install git-core python-argparse python-wstool python-vcstools python-rosdep ros-kinetic-control-msgs ros-kinetic-joystick-drivers ros-kinetic-xacro ros-kinetic-tf2-ros ros-kinetic-rviz ros-kinetic-cv-bridge ros-kinetic-actionlib ros-kinetic-actionlib-msgs ros-kinetic-dynamic-reconfigure ros-kinetic-trajectory-msgs ros-kinetic-rospy-message-converter
+ 1863  cd ~/ros_ws/src
+ 1864  wstool init .
+ 1865  git clone https://github.com/RethinkRobotics/sawyer_robot.git
+ 1866  wstool merge sawyer_robot/sawyer_robot.rosinstall
+ 1867  wstool update
+ 1868  cd
+ 1869  source /opt/ros/kinetic/setup.bash
+ 1870  cd ~/ros_ws
+ 1871  catkin_make
+ 1872  cd
+ 1873  cp ~/ros_ws/src/intera_sdk/intera.sh ~/ros_ws
+ 1874  ls
+ 1875  cd ros_ws/
+ 1876  ls
+ 1877  subl intera.sh 
+ 1878  ./intera.sh 
+ 1879  exti
+ 1880  exit
+ 1881  rosrun rviz rviz 
+ 1882  exit
+ 1883  sudo avahi-autoipd eth0
+ 1884  exit
+ 1885  ls
+ 1886  cd
+ 1887  cd 2018S_Frank_Ray_Zihan/
+ 1888  ls
+ 1889  python trainObject.py 
+ 1890  python2 trainObject.py 
+ 1891  python3 trainObject.py 
+ 1892  python2.7 trainObject.py 
+ 1893  python2 trainObject.py 
+ 1894  cd ~/Grasp-Detector-master/
+ 1895  python2 FutureProject.py 
+ 1896  cd
+ 1897  cd catkin_ws/
+ 1898  subl intera.sh
+ 1899  cd ~/Grasp-Detector-master/
+ 1900  ls
+ 1901  python2 FutureProject.py 
+ 1902  cd
+ 1903  cd 2018S_Frank_Ray_Zihan/
+ 1904  python2 tain
+ 1905  python2 trainObject.py 
+ 1906  subl trainObject.py 
+ 1907  python2 trainObject.py 
+ 1908  sudo apt-get install python-rosinstall
+ 1909  exit
+ 1910  cd catkin_ws/
+ 1911  ./intera.sh
+ 1912  exit
+ 1913  sudo apt-get purge ros-kinetic-*
+ 1914  sudo apt-get purge libopenni*
+ 1915  sudo apt-get purge ros-kinetic-*
+ 1916  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+ 1917  sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
+ 1918  sudo apt-get update
+ 1919  sudo apt-get install ros-kinetic-desktop-full
+ 1920  sudo rosdep init
+ 1921  rosdep update
+ 1922  echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+ 1923  source ~/.bashrc
+ 1924  subl .bashrc
+ 1925  source /opt/ros/kinetic/setup.bash
+ 1926  sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
+ 1927  roscore 
+ 1928  exit
+ 1929  cd /home/team18/.ros/log/678b0f20-6809-11e8-8cf5-4ccc6af688f5/
+ 1930  ls
+ 1931  subl roslaunch-team18-MS-7A72-18707.log 
+ 1932  cd
+ 1933  cd catkin_ws/
+ 1934  ls
+ 1935  ./intera.sh
+ 1936  sudo avahi-autoipd eh0
+ 1937  sudo avahi-autoipd eh1
+ 1938  sudo avahi-autoipd eh0
+ 1939  sudo avahi-autoipd eth0
+ 1940  cd
+ 1941  cd Grasp-Detector-master/
+ 1942  ls
+ 1943  subl __init__.py 
+ 1944  cd
+ 1945  cd catkin_ws/
+ 1946  catkin_make
+ 1947  ls
+ 1948  cd my_scripts/
+ 1949  ls
+ 1950  cd catkin_ws/
+ 1951  catkin_make
+ 1952  ls
+ 1953  cd
+ 1954  cd catkin_ws/
+ 1955  sudo apt list --installed 
+ 1956  exit
+ 1957  cd /opt/ros/kinetic/lib/python2.7/dist-packages/rospy/
+ 1958  ls
+ 1959  subl __init__.py
+ 1960  exit
+ 1961  subl
+ 1962  ros --help
+ 1963  ros -h
+ 1964  exit
+ 1965  cd
+ 1966  cd 2018S_Frank_Ray_Zihan/
+ 1967  subl trainObject.py 
+ 1968  python2 trainObject.py 
+ 1969  rosrun intera_examples gripper_keyboard.py 
+ 1970  exit
+ 1971  cd catkin_ws/
+ 1972  cd
+ 1973  cd ros_ws/
+ 1974  ./intera.sh 
+ 1975  exit
+ 1976  roscore
+ 1977  exit
+ 1978  sudo avahi-autoipd eth0
+ 1979  exit
+ 1980  rosrun intera_examples gripper_keyboard.py 
+ 1981  cd
+ 1982  cd 2018S_Frank_Ray_Zihan/
+ 1983  ls
+ 1984  python2 trainObject.py 
+ 1985  exit
+ 1986  cd ros_ws/
+ 1987  ls
+ 1988  subl intera.sh 
+ 1989  ./intera.sh 
+ 1990  exit
+ 1991  sudo avahi-autoipd eth0
+ 1992  exit
+ 1993  roscore
+ 1994  subl .bashrc
+ 1995  exit
+ 1996  gcc --version
+ 1997  lspci | grep -i nvidia
+ 1998  exit
+ 1999  lspci | grep -i nvidia
+ 2000  dmesg | grep NVRM
+ 2001  lspci 
+ 2002  dpkg -l | grep nvidia
+ 2003  sudo update-pciids 
+ 2004  lspci -nn | grep '\[03'
+ 2005  uname -m && cat /etc/*release
+ 2006  gcc --version
+ 2007  uname -r
+ 2008  sudo apt-get install linux-headers-$(uname -r)
+ 2009  dpkg -l | grep nvidia
+ 2010  history > how_to_check_cuda_XXX_version.txt
